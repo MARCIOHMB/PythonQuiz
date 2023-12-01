@@ -1,4 +1,4 @@
-# Python 1 on 1 Knowledge Check
+# Python 1 on 1 Quiz
 
 A program that presents a set of Python-related questions to test your Python knowledge.
 It consists of  multiple-choice questions with multiple-choice answers.
